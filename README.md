@@ -16,7 +16,7 @@ API tìm kiếm chuyến bay đc tích hợp tìm ở [Amadeus] để truy xuấ
 1. Clone the Repository:
 
 ```bash
-$ git clone 
+$ git clone https://github.com/kimthoa1607/flight-booking-system.git
 ```
 
 ### Frontend
@@ -35,4 +35,3 @@ $ cd server
 $ cp .env.sample .env
 $ yarn dev
 ```
-thithoa160720
